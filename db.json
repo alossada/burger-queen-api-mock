@@ -30,7 +30,7 @@
       ],
       "status": "delivered",
       "dateEntry": "2022-06-09 11:00:40",
-      "dateProcessed": "2022-06-09 11:50:32"
+      "dateProcessed": "2022-06-09 11:30:32"
     },
     {
       "id": 2,
@@ -62,124 +62,7 @@
       ],
       "status": "delivered",
       "dateEntry": "2022-03-05 15:00",
-      "dateProcessed": "2022-03-05 16:00"
-    },
-    {
-      "userId": 2,
-      "client": "Juan",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Hamburguesa",
-            "price": 20000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407800/burguer_ogyfol.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:15:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 6,
-            "name": "Coca-Cola",
-            "price": 5000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407789/coke_s0ee9j.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:19:10"
-          }
-        }
-      ],
-      "status": "delivered",
-      "dateEntry": "2022-06-23 20:21:19",
-      "id": 3,
-      "dateProcessed": "2022-07-01 15:43:52"
-    },
-    {
-      "userId": 2,
-      "client": "Ana Lina",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 1,
-            "name": "Sandwich",
-            "price": 15000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407702/sandwich_nsyy8q.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Hamburguesa",
-            "price": 20000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407800/burguer_ogyfol.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:15:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 3,
-            "name": "Papas Fritas",
-            "price": 5000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407783/fries_ma0jca.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:16:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 4,
-            "name": "Jugo de Naranja",
-            "price": 7000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407751/orange_opwyrd.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:17:10"
-          }
-        }
-      ],
-      "status": "delivering",
-      "dateEntry": "2022-07-01 15:43:27",
-      "id": 4,
-      "dateProcessed": "2022-07-01 15:58:47"
-    },
-    {
-      "userId": 2,
-      "client": "Ana Margarita",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Hamburguesa",
-            "price": 20000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407800/burguer_ogyfol.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:15:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 4,
-            "name": "Jugo de Naranja",
-            "price": 7000,
-            "image": "https://res.cloudinary.com/doox3mrdp/image/upload/v1653407751/orange_opwyrd.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:17:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dateEntry": "2022-07-01 15:58:30",
-      "id": 5
+      "dateProcessed": "2022-03-05 15:15"
     }
   ],
   "products": [
@@ -235,7 +118,7 @@
   "users": [
     {
       "email": "admin@burger.com",
-      "password": "$2a$10$.fI9pEvWIPQd.GB1CfBONe7f9MkDndDUGhPrgx1E3LW2qz0h7EYg.",
+      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "roles": {
         "admin": true
       },
